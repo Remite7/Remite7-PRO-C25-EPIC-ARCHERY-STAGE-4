@@ -1,1 +1,1 @@
-# Remite7-PRO-C25-EPIC-ARCHERY-STAGE-4
+# project-C25-template
